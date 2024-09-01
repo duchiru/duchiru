@@ -1,4 +1,5 @@
-Hello Github! I'm duchiru, currently living in Vietnam \
-I love creating software that helps us in our daily computer use and mods/plugins for my favourite block game: Minecraft!
+Hello Github! \
+I'm Nguyễn Thế Việt, a/an:
 
-Hope you can take a look at [TeamFalco](https://github.com/teamfalco), it's the place where I collab with my friend, [SpikeVN](https://github.com/SpikeVN)
+🎓 Student at Bac Ninh Specialized High School, my dream university is University of Engineering and Technology \
+🎮 Minecraft enthusiast, also love creating mods/plugins for this block game.

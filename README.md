@@ -1,11 +1,12 @@
 # Hi Github, I'm Nguyen The Viet! 👋
 
-> feel free to call me `Duck` :))
+> feel free to call me `Vịt` (Vietnamese) or `Duck` (English) :))
 
 ## 🌟 About Me
 - 🌍 Based in Bac Ninh, Vietnam (UTC +07:00)
 - 🎓 Graduated from Bac Ninh Specialized High School
 - 🏛️ Applying to Vietnam National University of Engineering and Technology
+- 🌐 Enthusiastic about web development and backend architecture
 - 🤖 Passionate about AI & IoT technologies
 
 ## 🛠️ Technologies & Tools
@@ -29,6 +30,8 @@ A simple website for students to submit their work to the Themis grading softwar
 Bot for checking grade 10 entrance exam results from Bac Ninh Department of Education and Training
 - **Tech:** Python
 - **Purpose:** Helping students predict admission cutoff scores for high schools
+
+**🚀 More exciting projects are on the way - stay tuned!**
 
 ---
 ⭐️ From [duchiru](https://github.com/duchiru) | *"Code is poetry written in logic"* ✨

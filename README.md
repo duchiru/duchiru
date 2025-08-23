@@ -1,37 +1,29 @@
-# Hi Github, I'm Nguyen The Viet! 👋
+# Hi, I'm Nguyen The Viet! 👋
 
-> feel free to call me `Vịt` (Vietnamese) or `Duck` (English) :))
+> Feel free to call me `Vịt` (Vietnamese) or `Duck` (English) :))
 
 ## 🌟 About Me
-- 🌍 Based in Bac Ninh, Vietnam (UTC +07:00)
-- 🎓 Graduated from Bac Ninh Specialized High School
-- 🏛️ Applying to Vietnam National University of Engineering and Technology
-- 🌐 Enthusiastic about web development and backend architecture
-- 🤖 Passionate about AI & IoT technologies
 
-## 🛠️ Technologies & Tools
-```javascript
-const duchiru = {
-	languages: ["C++", "JavaScript", "Python"],
-	currentlyLearning: ["Embedded Programming", "Web Development", "Backend Systems"],
-	interests: ["Competitive Programming", "Educational Tools", "Web Scraping", "Automation", "AI & IoT"],
-	funFact: "J.A.R.V.I.S. inspired me to dive into the world of AI 🤖"
-};
-```
+- 🌍 **Location:** Bac Ninh, Vietnam (UTC +07:00)
+- 🏛️ **Education:** Undergraduate at Vietnam National University of Engineering and Technology
+
+## 🛠️ Techs that I love
+
+- **Languages:** C++, JS/TS, Python, Rust
+- **Frontend:** React for building interactive user interfaces
+- **Backend:** NestJS for scalable server applications
+- **Apps:** Tauri and Expo for cross-platform apps
+
+## 🚀 Upcoming Journey
+
+I'm exploring the fascinating worlds of **AI and IoT**, working towards my dream project: creating an AI assistant like J.A.R.V.I.S. This vision inspired me to dive into artificial intelligence and drives my passion for building intelligent, connected systems.
 
 ## 📚 Featured Projects
 
-### 🎯 [web-ui-for-themis](https://github.com/duchiru/web-ui-for-themis)
-A simple website for students to submit their work to the Themis grading software
-- **Tech:** JavaScript
-- **Purpose:** Helping student submit thier Competitive Programming solutions easier 
-
-### 🏫 [bn10-scraper](https://github.com/duchiru/bn10-scraper)
-Bot for checking grade 10 entrance exam results from Bac Ninh Department of Education and Training
-- **Tech:** Python
-- **Purpose:** Helping students predict admission cutoff scores for high schools
+| Project | Description |
+|---------|-------------|
+| 🎯 [web-ui-for-themis](https://github.com/duchiru/web-ui-for-themis) | A simple website for students to submit their work to the Themis grading software easier |
+| 🏫 [bn10-scraper](https://github.com/duchiru/bn10-scraper) | Bot for checking grade 10 entrance exam results from Bac Ninh Department of Education and Training to students predict admission cutoff scores for high schools |
+| 📝 [markor](https://github.com/duchiru/markor) | A simple Markdown editor (practice using Tauri and React) |
 
 **🚀 More exciting projects are on the way - stay tuned!**
-
----
-⭐️ From [duchiru](https://github.com/duchiru) | *"Code is poetry written in logic"* ✨

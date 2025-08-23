@@ -1,6 +1,8 @@
 # Hi, I'm Nguyen The Viet! 👋
 
-> Feel free to call me `Vịt` (Vietnamese) or `Duck` (English) :))
+> Feel free to call me `Vịt` (Vietnamese) or `Duck` (English) :)
+
+I'm a passionate developer exploring the fascinating worlds of AI and IoT, working towards my dream project: creating an AI assistant like J.A.R.V.I.S. This vision drives my curiosity in artificial intelligence and motivates me to build intelligent, connected systems.
 
 ## 🌟 About Me
 
@@ -13,10 +15,6 @@
 - **Frontend:** React for building interactive user interfaces
 - **Backend:** NestJS for scalable server applications
 - **Apps:** Tauri and Expo for cross-platform apps
-
-## 🚀 Upcoming Journey
-
-I'm exploring the fascinating worlds of **AI and IoT**, working towards my dream project: creating an AI assistant like J.A.R.V.I.S. This vision inspired me to dive into artificial intelligence and drives my passion for building intelligent, connected systems.
 
 ## 📚 Featured Projects
 

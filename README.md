@@ -2,7 +2,7 @@
 
 > Feel free to call me `Vịt` (Vietnamese) or `Duck` (English) :)
 
-I'm a passionate developer exploring the fascinating worlds of AI and IoT, working towards my dream project: creating an AI assistant like J.A.R.V.I.S. This vision drives my curiosity in artificial intelligence and motivates me to build intelligent, connected systems.
+I'm a passionate developer exploring the fascinating worlds of **AI and IoT**, working towards my dream project: **creating an AI assistant like J.A.R.V.I.S.** This vision drives my curiosity in artificial intelligence and motivates me to build intelligent, connected systems.
 
 ## 🌟 About Me
 

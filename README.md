@@ -2,14 +2,12 @@
 
 > Feel free to call me `Vịt` (Vietnamese) or `Duck` (English) :)
 
-I love **AI and IoT** and my dream project is **an AI assistant like J.A.R.V.I.S.**
-
 ## 🌟 About Me
 
 - 🌍 **Location:** Bac Ninh, Vietnam (UTC +07:00)
-- 🏛️ **Education:** Undergraduate at Vietnam National University of Engineering and Technology
+- 🏛️ **Education:** Undergraduate in AI at Vietnam National University of Engineering and Technology
 
-## 🛠️ Techs that I love
+## 🛠️ Techs that I love and currently using
 
 - **Languages:** C++, JS/TS, Python, Rust
 - **Frontend:** React for building interactive user interfaces
